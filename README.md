@@ -48,5 +48,5 @@
 <br />
 
 <a href="https://github.com/yxiao66666">
-  <img align="right" alt="Yang's GitHub Page" width="21px" src="images/github-logo.svg" />
+  <img align="right" alt="Yang's GitHub Page" width="21px" src="images/github_logo.svg" />
 </a>
