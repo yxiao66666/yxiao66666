@@ -33,7 +33,6 @@
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxiao66666&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
 <br />
-<br />
 
 <a href="https://github.com/yxiao66666">
   <img align="right" alt="Yang's GitHub Page" width="21px" src="images/github_logo.svg" />
