@@ -32,8 +32,6 @@
 [![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxiao66666)](https://github.com/anuraghazra/github-readme-stats)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxiao66666&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
-<br />
-
 <a href="https://github.com/yxiao66666">
   <img align="right" alt="Yang's GitHub Page" width="21px" src="images/github_logo.svg" />
 </a>
