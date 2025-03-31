@@ -1,9 +1,4 @@
-# Welcome to My GitHub Profile!
-
-## About Me
-
-- 🏫 Studying Computer Science at the University of Queensland
-- ❤️ I love music, reading, and, of course, coding!
+# Welcome to Yang's GitHub Profile!
 
 [![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxiao66666)](https://github.com/anuraghazra/github-readme-stats)
 
