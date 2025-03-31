@@ -14,14 +14,14 @@
 <img height="20" alt="React" src="https://img.shields.io/badge/-React-087A9F?logo=React&style=flat"></img>
 <img height="20" alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=Flask&style=flat"></img>
 <img height="20" alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter Notebook-whitesmoke?logo=Jupyter&style=flat"></img>
-<img height="20" alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&style=flat"></img>
+<img height="20" alt="NumPy" src="https://img.shields.io/badge/-NumPy-F7CE43?logo=NumPy&style=flat"></img>
 <img height="20" alt="pandas" src="https://img.shields.io/badge/-pandas-150458?logo=pandas&style=flat"></img>
 
 ### Languages
 
 <img height="20" alt="Python" src="https://img.shields.io/badge/-Python-013243?logo=python&style=flat"></img>
 <img height="20" alt="Java" src="https://img.shields.io/badge/-Java-F89917?logo=OpenJDK&style=flat"></img>
-<img height="20" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-D4B830?logo=javascript&style=flat"></img>
+<img height="20" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-D4B830?logo=javascript&style=flat=https://github.com/WilliamMercado/DECO3801_The_R6"></img>
 <img height="20" alt="HTML" src="https://img.shields.io/badge/-HTML-white?logo=html5&style=flat"></img>
 <img height="20" alt="CSS" src="https://img.shields.io/badge/-CSS-006BC0?logo=CSS&style=flat"></img>
 <img height="20" alt="PHP" src="https://img.shields.io/badge/-PHP-8E93D6?logo=PHP&style=flat"></img>
