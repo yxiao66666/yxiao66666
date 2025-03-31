@@ -32,11 +32,6 @@
 [![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxiao66666)](https://github.com/anuraghazra/github-readme-stats)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxiao66666&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
-
-<a href="https://github.com/WilliamMercado/DECO3801_The_R6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamMercado&repo=DECO3801_The_R6&theme=buefy" />
-</a>
-
 <br />
 <br />
 
