@@ -27,7 +27,7 @@
 <img height="20" alt="Git" src="https://img.shields.io/badge/-Git-white?logo=Git&style=flat"></img>
 <img height="20" alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX&style=flat"></img>
 <img height="20" alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=Markdown&style=flat"></img>
-<img height="20" alt="SSIS" src="https://img.shields.io/badge/-SSIS-008080?logo=LaTeX&style=flat"></img>
+<img height="20" alt="SSIS" src="https://img.shields.io/badge/-SSIS-#F6342C?logo=Databricks&style=flat"></img>
 
 
 
