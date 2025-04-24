@@ -16,7 +16,7 @@
 <img height="20" alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=Flask&style=flat"></img>
 <img height="20" alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter Notebook-whitesmoke?logo=Jupyter&style=flat"></img>
 <img height="20" alt="NumPy" src="https://img.shields.io/badge/-NumPy-F7CE43?logo=NumPy&style=flat"></img>
-<img height="20" alt="pandas" src="https://img.shields.io/badge/-pandas-150458?logo=pandas&style=flat"></img>
+<img height="20" alt="pandas" src="https://img.shields.io/badge/-pandas-150458?logo=pandas&style=flat?link=https://www.google.com.au/"></img>
 
 ### OS
 
