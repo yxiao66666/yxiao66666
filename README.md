@@ -28,6 +28,8 @@
 <img height="20" alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?logo=LaTeX&style=flat"></img>
 <img height="20" alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=Markdown&style=flat"></img>
 <img height="20" alt="SSIS" src="https://img.shields.io/badge/-SSIS-FFB268?logo=Databricks&style=flat"></img>
+<img height="20" alt="SQL" src="https://img.shields.io/badge/-Power BI-F2C911?&style=flat"></img>
+<img height="20" alt="SQL" src="https://img.shields.io/badge/-RapidMiner-00586F?&style=flat"></img>
 
 
 
